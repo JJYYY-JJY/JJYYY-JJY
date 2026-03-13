@@ -49,8 +49,8 @@ I'm a researcher and developer based in **Seattle, WA**. My work bridges the gap
 ### 📊 GitHub Stats / 数据统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJYYY-JJY&show_icons=true" alt="JJYYY-JJY's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJYYY-JJY&layout=compact" alt="JJYYY-JJY's Top Languages" height="165" />
+  <img src="https://my-github-readme-stats-brown.vercel.app/api?username=JJYYY-JJY&show_icons=true&count_private=true&include_all_commits=true" alt="JJYYY-JJY's GitHub Stats" height="165" />
+  <img src="https://my-github-readme-stats-brown.vercel.app/api/top-langs/?username=JJYYY-JJY&layout=compact" alt="JJYYY-JJY's Top Languages" height="165" />
 </div>
 
 <br>
