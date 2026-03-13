@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me / 关于我
 
-I'm a researcher and developer based in **Seattle, WA**. My work bridges the gap between pure mathematics and software engineering, with a strong focus on formal verification, signal processing, and AI.
+I'm a researcher and developer based in **Seattle, WA**, pursuing a **B.S. in Mathematics** and a **Minor in Data Science** at the **University of Washington (UW)**. My work bridges the gap between pure mathematics and software engineering, with a strong focus on formal verification, signal processing, and AI.
 
 - 🔭 **Currently focusing on:** Formalizing mathematics in [Lean 4](https://leanprover.github.io/) and contributing to `mathlib4` (Check out my formally verified Hermite & Smith Normal Forms in [lean-normal-forms](https://github.com/JJYYY-JJY/lean-normal-forms)).
 - 🧠 **Interests:** Formal Methods, Machine Learning (Agentic AI, Audio Processing), Applied Mathematics (Markov Chains, Geometry), and Data Science.
@@ -24,12 +24,19 @@ I'm a researcher and developer based in **Seattle, WA**. My work bridges the gap
 
 ### 🚀 Highlighted Projects / 精选项目
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔹 **[lean-normal-forms](https://github.com/JJYYY-JJY/lean-normal-forms)** | Executable Hermite and Smith Normal Forms in Lean 4 over Euclidean Domains, with a PID bridge to Mathlib. | `Lean 4` `Mathlib` |
-| 🔹 **[agentic-color](https://github.com/JJYYY-JJY/agentic-color)** | An agentic color grading engine that analyzes images and generates multiple editable parameter-based looks. | `Python` `AI/Agents` |
-| 🔹 **[Celestial-Chase](https://github.com/JJYYY-JJY/Celestial-Chase)** | Data science exploration of Near-Earth Comets (NECs) and Meteorite Landings. | `R` `Data Analysis` |
-| 🔹 **[DDSP-SVC](https://github.com/JJYYY-JJY/DDSP-SVC)** | Real-time end-to-end singing voice conversion (Differentiable Digital Signal Processing). | `Deep Learning` `Audio` |
+<!-- START_PINNED_REPOS -->
+<div align="center">
+  <a href="https://github.com/JJYYY-JJY/lean-normal-forms">
+    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=lean-normal-forms&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="lean-normal-forms" />
+  </a>
+  <a href="https://github.com/JJYYY-JJY/agentic-color">
+    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=agentic-color&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="agentic-color" />
+  </a>
+  <a href="https://github.com/JJYYY-JJY/Celestial-Chase">
+    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=Celestial-Chase&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="Celestial-Chase" />
+  </a>
+</div>
+<!-- END_PINNED_REPOS -->
 
 ---
 
@@ -40,7 +47,6 @@ I'm a researcher and developer based in **Seattle, WA**. My work bridges the gap
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -49,8 +55,8 @@ I'm a researcher and developer based in **Seattle, WA**. My work bridges the gap
 ### 📊 GitHub Stats / 数据统计
 
 <div align="center">
-  <img src="https://my-github-readme-stats-brown.vercel.app/api?username=JJYYY-JJY&show_icons=true&count_private=true&include_all_commits=true" alt="JJYYY-JJY's GitHub Stats" height="165" />
-  <img src="https://my-github-readme-stats-brown.vercel.app/api/top-langs/?username=JJYYY-JJY&layout=compact" alt="JJYYY-JJY's Top Languages" height="165" />
+  <img src="https://my-github-readme-stats-brown.vercel.app/api?username=JJYYY-JJY&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="JJYYY-JJY's GitHub Stats" height="220" />
+  <img src="https://my-github-readme-stats-brown.vercel.app/api/top-langs/?username=JJYYY-JJY&layout=donut&langs_count=6&hide=html,jupyter%20notebook&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="JJYYY-JJY's Top Languages" height="220" />
 </div>
 
 <br>
