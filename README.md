@@ -29,12 +29,6 @@ I'm a researcher and developer based in **Seattle, WA**, pursuing a **B.S. in Ma
   <a href="https://github.com/JJYYY-JJY/lean-normal-forms">
     <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=lean-normal-forms&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="lean-normal-forms" />
   </a>
-  <a href="https://github.com/JJYYY-JJY/agentic-color">
-    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=agentic-color&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="agentic-color" />
-  </a>
-  <a href="https://github.com/JJYYY-JJY/Celestial-Chase">
-    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=Celestial-Chase&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="Celestial-Chase" />
-  </a>
 </div>
 <!-- END_PINNED_REPOS -->
 
