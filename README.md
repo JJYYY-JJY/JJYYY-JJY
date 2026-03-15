@@ -29,6 +29,9 @@ I'm a researcher and developer based in **Seattle, WA**, pursuing a **B.S. in Ma
   <a href="https://github.com/JJYYY-JJY/lean-normal-forms">
     <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=lean-normal-forms&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="lean-normal-forms" />
   </a>
+  <a href="https://github.com/JJYYY-JJY/proof-carrying-monitor">
+    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=proof-carrying-monitor&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="proof-carrying-monitor" />
+  </a>
 </div>
 <!-- END_PINNED_REPOS -->
 
