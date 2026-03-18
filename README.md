@@ -32,6 +32,9 @@ I'm a researcher and developer based in **Seattle, WA**, pursuing a **B.S. in Ma
   <a href="https://github.com/JJYYY-JJY/proof-carrying-monitor">
     <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=proof-carrying-monitor&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="proof-carrying-monitor" />
   </a>
+  <a href="https://github.com/JJYYY-JJY/mathlib4">
+    <img src="https://my-github-readme-stats-brown.vercel.app/api/pin/?username=JJYYY-JJY&repo=mathlib4&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="mathlib4" />
+  </a>
 </div>
 <!-- END_PINNED_REPOS -->
 
